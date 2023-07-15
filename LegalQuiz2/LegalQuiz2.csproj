@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\back64.png" />
+    <None Remove="Resources\Legal.jpg" />
+    <None Remove="Resources\Next64.png" />
+    <None Remove="Resources\printer.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\back64.png" />
+    <Resource Include="Resources\Legal.jpg" />
+    <Resource Include="Resources\next64.png" />
+    <Resource Include="Resources\printer.png" />
+  </ItemGroup>
+
+</Project>

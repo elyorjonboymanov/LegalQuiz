@@ -1,0 +1,5 @@
+C:\Users\Elyor\source\repos\LegalQuiz2\LegalQuiz2\bin\Release\net5.0-windows\app.publish\LegalQuiz2.exe
+C:\Users\Elyor\source\repos\LegalQuiz2\LegalQuiz2\bin\Release\net5.0-windows\app.publish\LegalQuiz2.dll
+C:\Users\Elyor\source\repos\LegalQuiz2\LegalQuiz2\bin\Release\net5.0-windows\app.publish\LegalQuiz2.deps.json
+C:\Users\Elyor\source\repos\LegalQuiz2\LegalQuiz2\bin\Release\net5.0-windows\app.publish\LegalQuiz2.runtimeconfig.json
+C:\Users\Elyor\source\repos\LegalQuiz2\LegalQuiz2\bin\Release\net5.0-windows\app.publish\LegalQuiz2.pdb
