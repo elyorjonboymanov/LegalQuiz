@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3pSXCCHzbmXzpttFeoOSoA4D26tROrbGHCXbRnKckv6Poef6pi6SqCV0wHQF3qv2zTS1MKqiFKGWUSVqGybfA==",
+  "dgSpecHash": "0MFQO99BaACo4utM4/JLA5a9d541K31QLqpQO2BJsCHmMDuWToHBQPwpDDNwLM1znkBiXKP3PcY5bPffimNZjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elyor\\source\\repos\\LegalQuiz2\\LegalQuiz2\\LegalQuiz2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Elyor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Work\\Projects\\LegalQuiz2\\LegalQuiz2\\LegalQuiz2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
